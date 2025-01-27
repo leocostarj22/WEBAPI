@@ -19,4 +19,4 @@ Bem-vindo à minha API CRUD desenvolvida em .NET! Esta API permite realizar oper
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sua-api.git
+   git clone https://github.com/leocostarj22/WEBAPI.git
